@@ -1,2 +1,5 @@
-# self_driving_collision_viz
-California self-driving collision report
+# Self Driving Collision Viz
+
+Source: California Department of Motor Vehicles
+Chart: Kadar Amek
+
